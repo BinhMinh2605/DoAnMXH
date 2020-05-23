@@ -6,10 +6,10 @@
 <li> Đăng trạng thái-có thể like,bình luận</li>
 <img align="left" src="img_readme\Capture3.PNG">
 <li> Xóa, sửa bình luận</li>
-<img align="left" width="800px"   src="img_readme\Capture4.PNG">
+<img align="left" width="1000px"   src="img_readme\Capture4.PNG">
 <li> Chức năng chat cùng bạn bè</li>
-<img align="left" width="800px" src="img_readme\Capture5.PNG">
+<img align="left" width="1000px" src="img_readme\Capture5.PNG">
 <li> Xen trang cá nhân của bạn gửi lời mời, hoặc xóa lời mời kết bạn</li>
-<img align="left" width="800px" src="img_readme\Capture6.PNG">
-<img align="left" width="800px"  src="img_readme\Capture7.PNG">
+<img align="left"  src="img_readme\Capture6.PNG">
+<img align="left"  src="img_readme\Capture7.PNG">
 
